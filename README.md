@@ -1,4 +1,4 @@
-# ![Diagrama de modelos](img/cabecera-logos.jpg)
+# ![Cabecera](img/cabecera-logos.jpg)
 
 ### Sobre mí
 
