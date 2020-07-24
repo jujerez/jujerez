@@ -1,5 +1,5 @@
 
-# ![Cabecera](image/cabecera.jpg)
+# [![Cabecera](image/cabecera.jpg)]
 
 ### Sobre mí
 
