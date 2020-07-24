@@ -1,4 +1,4 @@
-# ![Cabecera](img/cabecera-logos.jpg)
+# ![Cabecera](img/cabecera.jpg)
 
 ### Sobre mí
 
